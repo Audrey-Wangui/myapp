@@ -53,7 +53,18 @@
 }
 
 .Help{
-  background-color: rgb(211, 141, 153);
+  background-color: rgb(231, 194, 200);
   color: white;
   
+}
+
+.Thirdcomponent{
+ background-color: rgb(235, 228, 156);
+ color: brown;
+ padding: 30px;
+}
+
+.Fourthcomponent{
+  background-color: rgb(231, 77, 108);
+  color: rgb(235, 194, 140);
 }
