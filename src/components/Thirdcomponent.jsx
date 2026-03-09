@@ -1,5 +1,5 @@
 const Thirdcomponent = () =>{
-    // Variables enble us to crate dynamic websites. (It means the content of the website will be changing over time.)
+    // Variables enble us to create dynamic websites. (It means the content of the website will be changing over time.)
     // Below we declare some variables. Note: Variables are usually declaired just before the return statement in Reactjs.
     let name = "Audrey";
     let age = 18;

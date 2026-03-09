@@ -20,6 +20,4 @@ const Fifthcomponent = () =>{
 
 export default Fifthcomponent;
 
-// Create a sixth component.jsx. Inside of it, have the useState with the initial value of weight being 50kg, have a button to update the weight to 55Kgs when the button is clicked. Render the component to App.js
-
 // Research on routing in React.js

@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #77d6f0;
 }
 
 @keyframes App-logo-spin {
@@ -43,7 +43,7 @@
 }
 
 .Secondcomponent{
-  background-color: rgb(139, 190, 219);
+  background-color: rgb(160, 203, 228);
   color: white;
 }
 
@@ -67,4 +67,40 @@
 .Fourthcomponent{
   background-color: rgb(231, 77, 108);
   color: rgb(235, 194, 140);
+}
+
+.Sixthcomponent{
+  background-color: #9f9fe2fa;
+  color: white;
+
+}
+
+.Notfound{
+  background-color:white;
+  font-size: 30px;
+  color: red;
+  font-weight: 900;
+}
+
+nav{
+  background-color: rgb(196, 222, 135);
+  padding: 20px;
+}
+
+.navlink{
+  margin: 10px;
+  text-decoration: none;
+  font-size: 25px;
+  background-color: white;
+  padding: 8px;
+  color: black;
+  border-radius: 10px;
+  font-weight: 500;
+
+}
+
+.navlink:hover{
+  background-color: rgb(228, 133, 152);
+  color: white;
+
 }
